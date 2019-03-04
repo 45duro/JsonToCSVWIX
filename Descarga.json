@@ -1,0 +1,24 @@
+{
+ "Producto": [
+  {
+   "handeld": "Modulo sensor de intensidad de luz LDR",
+   "name": "Modulo sensor de intensidad de luz LDR",
+   "description": "Modulo sensor de intensidad de luz LDR",
+   "productImageUrl": [
+    {
+     "image": "joder1"
+    },
+    {
+     "image": "joder1"
+    },
+    {
+     "image": "joder3"
+    }
+   ],
+   "inventory": "1",
+   "label": "Descripción",
+   "productOptionDescription1": "esta es una breve descripcion de pruebas",
+   "precio": "4.520,00 $"
+  }
+ ]
+}
