@@ -1,0 +1,66 @@
+{
+ "Producto": [
+  {
+   "handleId": "Modulo sensor de intensidad de luz LDR",
+   "name": "Modulo sensor de intensidad de luz LDR",
+   "description": "Modulo sensor de intensidad de luz LDR",
+   "productImageUrl": [
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/cache/1/thumbnail/500x500/85e4522595efc69f496374d01ef2bf13/l/d/ldr_2.jpg"
+    },
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/optimized/9/5/95e0799ae78f164271a0c0d27ae94be0/ldr_2.jpg"
+    },
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/cache/1/thumbnail/500x500/85e4522595efc69f496374d01ef2bf13/l/d/ldr_2.jpg"
+    }
+   ],
+   "collection": "Modulos",
+   "collection_url": "https://www.ardobot.co/productos/men.html",
+   "price": "4.520,00 $",
+   "inventory": "1",
+   "additionalInfoDescription1": "Detalles\nEste modulo esta conformado por LDR o fotoresistor, el cual es sensible a la exposicion de intensidad luminica ambiental, para asi determinar el brillo e intensidad luminica del medio. Este modulo a traves de una salida digital, establece el umbral de luminosidad, proporcionando un nivel de tension alto o bajo, dependiendo de la configuracion del potenciometro. A traves de la salida analogica del modulo, se puede llevar a informacion real a un microcontrolador o Arduino obteniendo asi valores mas exactos de luminosidad.\nCaracteristicas:\nDetectar intensidad de luz del entorno\nSensibilidad ajustable mediante potenciometro\nUtiliza el comparador LM393 para mayor estabilidad\nOrificio de instalacion para facilitar su uso\nIndicador de alimentacion (LED rojo)\nIndicador de salidad digital D0 (LED verde)\nConexion de 4 hilos\nDimensiones 30 x 15mm\nDistribucion de pines:\nA0: Salida de tension analogica\nD0: Salida de tension digital (0, 1)\nGND: Masa\nVCC: Alimentacion 3.3 a 5V\nQue es un LDR o Fotoresistor?\nEl funcionamientod e un fotoresistor se basa en el efecto fotoelectrico. Un fotorresistor esta hecho de un semiconductor de alta resistencia como el sulfuro de cadmio, CdS. Si la luz que incide en el dispositivo es de alta frecuencia, los fotones son absorbidos por las elasticidades del semiconductor dando a los electrones la suficiente energia para saltar la banda de conduccion. El electron libre que resulta, y su hueco asociado, conducen la electricidad, de tal modo que disminuye la resistencia. Los valores tipicos varian entre 1 MOhm, o mas, en la oscuridad y 100 Ohm con luz brillante.\nLa variacion del valor de la resistencia tiene cierto retardo, diferente si se pasa de oscuro a iluminado o de iluminado a oscuro. Esto limita a no usar los LDR en aplicaciones en las que la senal luminosa varia con rapidez. El tiempo de respuesta tipico de un LDR esta en el orden de una decima de segundo. Esta lentitud da ventaja en algunas aplicaciones, ya que se filtran variaciones rapidas de iluminacion que podrian hacer inestable un sensor (ej. tubo fluorescente alimentado por corriente alterna). En otras aplicaciones (saber si es de dia o es de noche) la lentitud de la deteccion no es importante."
+  },
+  {
+   "handleId": "ESP-10 ESP8266 Uart serie al Modulo Wifi inalámbrico",
+   "name": "ESP-10 ESP8266 Uart serie al Modulo Wifi inalámbrico",
+   "description": "Este paquete contiene:\n1xESP-10 ESP8266 Uart serie al modulo inalámbrico Wifi",
+   "productImageUrl": [
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/cache/1/thumbnail/500x500/85e4522595efc69f496374d01ef2bf13/e/s/esp-10_esp8266.jpg"
+    },
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/optimized/3/9/397582726588dfab3419451e1147097c/esp-10_esp8266.jpg"
+    },
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/cache/1/thumbnail/500x500/85e4522595efc69f496374d01ef2bf13/e/s/esp-10_esp8266.jpg"
+    }
+   ],
+   "collection": "Modulos",
+   "collection_url": "https://www.ardobot.co/productos/men.html",
+   "price": "20.000,00 $",
+   "inventory": "2",
+   "additionalInfoDescription1": "Detalles\nCaracteristicas\nIt run LWIP\n802.11 bgn\nWIFI Direct (P2P),SOFT-AP\nBuilt-in TCP/IP\nThe AT command is perfect,efficient,concise\nSupport three modes: AP, STA and AP+STA coexistence mode"
+  },
+  {
+   "handleId": "ESP-11 ESP8266 Uart serie al Modulo Wifi w inalambrico / Antena incorporada",
+   "name": "ESP-11 ESP8266 Uart serie al Modulo Wifi w inalambrico / Antena incorporada",
+   "description": "Este paquete contiene:\n1x ESP-11 ESP8266 Uart serie al modulo inalámbrico Wifi w / Antena incorporada",
+   "productImageUrl": [
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/cache/1/thumbnail/500x500/85e4522595efc69f496374d01ef2bf13/e/s/esp-11_esp8266_-_3.jpg"
+    },
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/optimized/3/9/397582726588dfab3419451e1147097c/esp-11_esp8266_-_3.jpg"
+    },
+    {
+     "image": "https://www.ardobot.co/media/catalog/product/cache/1/thumbnail/500x500/85e4522595efc69f496374d01ef2bf13/e/s/esp-11_esp8266_-_3.jpg"
+    }
+   ],
+   "collection": "Modulos",
+   "collection_url": "https://www.ardobot.co/productos/men.html",
+   "price": "20.000,00 $",
+   "additionalInfoDescription1": "Detalles\nEste es el modulo transceptor serie Wi-Fi, basado en ESP8266 SoC;El SOC tiene pila de protocolos / IP integrado TCP;Es TTL interfaz de comunicación en serie y sus parámetros se puede ajustar por el comando AT;Es ampliamente utilizado en la creación de redes, el proyecto de casa inteligente cuando está conectado al router Wi-Fi;Puede ser utilizado para el monitoreo remoto de electrodomésticos, la temperatura y la humedad, dormitorio y electrodomésticos de control por el teléfono móvil.\nCaracterísticas:\nComunicación tensión de interfaz: 3.3V.\nIO paquete portuario: tanto el paquete de SMD y en línea están disponibles, y el paso de pin es de 1,27 mm.\nTipo de antena: antena de cerámica está disponible.\nModo de red inalámbrica: estación / softAP / SoftAP + estación.\nCriterios inalámbricos: 802.11 b / g / n.\nWi-Fi gratuita a 2,4 GHz, soporte para el modo / WPA2 WPA.\nEs muy fácil de desarrollar proyectos con comandos AT."
+  }
+ ]
+}

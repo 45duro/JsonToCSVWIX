@@ -34,82 +34,78 @@ def escribirHead(head):
 		else:
 			cadena = cadena + "," + i;
 
-	cadena = cadena  + ";;;;;" + '\n'
+	cadena = cadena  + ";;;;;"
 
 	return cadena;
 
 
 
 
-row = ""
-
+row1 = ""
+row2 = ""
+row3 = ""
+row4 = ""
    
 with open('Descarga.json', encoding="utf8") as file:
     data = json.load(file);
-
     contador = 0 #numero de iteraciones
     row = ""
+    print(len(data['Producto']))
     for p in data['Producto']:
         contador += 1;
-    
-        
-        if contador == -100:
-        	flag = "" #variable temporal
-	        for img in p['productImageUrl']:
-	        	if flag == "":
-	        		flag = img
-	        	else:
-	        		flag = flag + ";" + img
 
-        		row=row+flag
+        for i in range(50):
+            if i == 0:
+                row = row + "Producto" + str(contador)
 
+            elif i == 1:
+                    row = row + "," + "Product"
 
-        else:
-        	for i in range(50):
-        		if i == 1:
-        			row = row + "," + "Product"
+            elif i == 4:
+                    flag = "" #variable temporal
+                    for img in p['productImageUrl']:
+                            if flag == "":
+                                    flag = img['image']
+                            else:
+                                    flag = flag + ";" + img['image']
 
-        		elif i == 4:
-        			flag = "" #variable temporal
-	        		for img in p['productImageUrl']:
-	        			if flag == "":
-	        				flag = img['image']
-	        			else:
-	        				flag = flag + ";" + img['image']
+                    row = row + "," + flag
+            elif i == 8:
+                    bandera = sacar_precio(p[head[i]])
+                    row = row + "," + bandera
 
-	        		row = row + "," + flag
-	        	elif i == 8:
-	        		bandera = sacar_precio(p[head[i]])
-	        		print(bandera)
-	        		row = row + "," + bandera
+            elif i == 13:
+                    row = row + "," + "InStock"
 
-	        	elif i == 13:
-	        		row = row + "," + "InStock"
+            elif i == 33:
+                    row = row + "," + "Caracteristicas"
 
-	        	elif i == 33:
-	        		row = row + "," + "Descripción"
+            elif i == 34:
+                    row = row + ',"<p' + p[head[i]] + '</p>"'
 
-        		else:
-        			try:
-        				row = row + "," + p[head[i]] if i !=0 else row+p[head[i]]
+            else:
+                    try:
+                            row = row + ',"' + p[head[i]] + '"' #if i > 1 else row+p[head[i]]
 
-        			except:
-        				row = row + ","
+                    except:
+                            row = row + ","
 
 
         row = row  + ";;;;;\n"
-        			
-        	
+    
+            
+
+
 
     print(row);
 
 
 
-archvoCreado = open("productosFiltrados.csv", "w")
+archvoCreado = open("productosFiltrados.csv", "a", encoding="utf8")
 archvoCreado.write(escribirHead(head) + os.linesep)
-archvoCreado.write(row + os.linesep)
+archvoCreado.write(row)
 archvoCreado.close()
-	    	
+	
 
 
 
