@@ -1,21 +1,11 @@
 import json
+import os
 #import csv
 
-head = ("handeld", "fieldType","name", "description","productImageUrl",
-			"collection","sku","ribbon","price", "surcharge",
-			"visible", "discountMode", "discountValue","inventory","weight",
-			"productOptionName1","productOptionType1","productOptionDescription1",
-			"additionalInfoTitle1",	"additionalInfoDescription1",
-			"productOptionName2","productOptionType2","productOptionDescription2",
-			"additionalInfoTitle2",	"additionalInfoDescription2",
-			"productOptionName3", "productOptionType3", "productOptionDescription3",
-			"additionalInfoTitle3",	"additionalInfoDescription3", "productOptionName4",
-			"productOptionType4", "productOptionDescription4", "additionalInfoTitle4",
-			"additionalInfoDescription4", "productOptionName5",	"productOptionDescription5",
-			"additionalInfoTitle5",	"additionalInfoDescription5",	
-			"productOptionName6",	"productOptionType6",	"productOptionDescription6",	
-			"additionalInfoTitle6",	"additionalInfoDescription6",	"customTextField1",	"customTextCharLimit1",	"customTextMandatory1",	"customTextField2",	"customTextCharLimit2",	"customTextMandatory2"
-)
+head = ("handleId","fieldType","name","description",
+	"productImageUrl","collection","sku","ribbon",
+	"price","surcharge","visible","discountMode",
+	"discountValue","inventory","weight","productOptionName1","productOptionType1","productOptionDescription1","productOptionName2","productOptionType2","productOptionDescription2","productOptionName3","productOptionType3","productOptionDescription3","productOptionName4","productOptionType4","productOptionDescription4","productOptionName5","productOptionType5","productOptionDescription5","productOptionName6","productOptionType6","productOptionDescription6","additionalInfoTitle1","additionalInfoDescription1","additionalInfoTitle2","additionalInfoDescription2","additionalInfoTitle3","additionalInfoDescription3","additionalInfoTitle4","additionalInfoDescription4","additionalInfoTitle5","additionalInfoDescription5","additionalInfoTitle6","additionalInfoDescription6","customTextField1","customTextCharLimit1","customTextMandatory1")
 
 
 def sacarImagenes(elementos):
@@ -27,6 +17,27 @@ def sacarImagenes(elementos):
 			cadena = cadena + ";" + elemento
 		
 	print(cadena)
+
+def sacar_precio(valor):
+	X = valor.replace(",00","");
+	Y = X.replace("$","");
+	Z = Y.replace(".","");
+	
+	return Z;
+
+
+def escribirHead(head):
+	cadena = ""
+	for i in head:
+		if cadena == "":
+			cadena = i
+		else:
+			cadena = cadena + "," + i;
+
+	cadena = cadena  + ";;;;;" + '\n'
+
+	return cadena;
+
 
 
 
@@ -42,7 +53,7 @@ with open('Descarga.json', encoding="utf8") as file:
         contador += 1;
     
         
-        if contador == -1:
+        if contador == -100:
         	flag = "" #variable temporal
 	        for img in p['productImageUrl']:
 	        	if flag == "":
@@ -55,10 +66,49 @@ with open('Descarga.json', encoding="utf8") as file:
 
         else:
         	for i in range(50):
-        		print(i) 
+        		if i == 1:
+        			row = row + "," + "Product"
+
+        		elif i == 4:
+        			flag = "" #variable temporal
+	        		for img in p['productImageUrl']:
+	        			if flag == "":
+	        				flag = img['image']
+	        			else:
+	        				flag = flag + ";" + img['image']
+
+	        		row = row + "," + flag
+	        	elif i == 8:
+	        		bandera = sacar_precio(p[head[i]])
+	        		print(bandera)
+	        		row = row + "," + bandera
+
+	        	elif i == 13:
+	        		row = row + "," + "InStock"
+
+	        	elif i == 33:
+	        		row = row + "," + "Descripción"
+
+        		else:
+        			try:
+        				row = row + "," + p[head[i]] if i !=0 else row+p[head[i]]
+
+        			except:
+        				row = row + ","
+
+
+        row = row  + ";;;;;\n"
+        			
+        	
 
     print(row);
 
+
+
+archvoCreado = open("productosFiltrados.csv", "w")
+archvoCreado.write(escribirHead(head) + os.linesep)
+archvoCreado.write(row + os.linesep)
+archvoCreado.close()
 	    	
 
 

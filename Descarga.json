@@ -1,24 +1,44 @@
 {
  "Producto": [
   {
-   "handeld": "Modulo sensor de intensidad de luz LDR",
+   "handleId": "Producto 1",
    "name": "Modulo sensor de intensidad de luz LDR",
-   "description": "Modulo sensor de intensidad de luz LDR",
+   "description": "Modulo para medr la luz LDR ",
    "productImageUrl": [
     {
-     "image": "joder1"
+     "image": "https://www.chiquipedia.com/imagenes/imagenes-amor08.jpg"
     },
     {
-     "image": "joder1"
+     "image": "https://cdn-tienda.bricogeek.com/946-thickbox_default/arduino-uno.jpg"
     },
     {
-     "image": "joder3"
+     "image": "https://es.farnell.com/productimages/large/en_GB/GEA000066-40.jpg"
     }
    ],
-   "inventory": "1",
-   "label": "Descripción",
-   "productOptionDescription1": "esta es una breve descripcion de pruebas",
-   "precio": "4.520,00 $"
+   "surcharge": "1",
+   "additionalInfoTitle1": "Descripción",
+   "additionalInfoDescription1": "esta es una breve descripcion de pruebas",
+   "price": "4.520,00 $"
+  },
+  {
+   "handleId": "Producto 2",
+   "name": "Modulo sensor de intensidad de luz LDR2",
+   "description": "Modulo para medr la luz LDR2 ",
+   "productImageUrl": [
+    {
+     "image": "https://cdn-tienda.bricogeek.com/4986-thickbox_default/arduino-nano.jpg"
+    },
+    {
+     "image": "https://www.robotshop.com/media/catalog/product/cache/image/380x380/9df78eab33525d08d6e5fb8d27136e95/a/r/arduino-mega-2560-microcontroller-rev3-3_1.jpg"
+    },
+    {
+     "image": "https://cdn-tienda.bricogeek.com/1812-thickbox_default/arduino-bluetooth.jpg"
+    }
+   ],
+   "surcharge": "27",
+   "additionalInfoTitle1": "Descripción",
+   "additionalInfoDescription1": "esta es una breve descripcion de pruebas 2",
+   "price": "10.678,00 $"
   }
  ]
 }
