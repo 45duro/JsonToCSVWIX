@@ -48,7 +48,7 @@ row4 = ""
    
 with open('Descarga.json', encoding="utf8") as file:
     data = json.load(file);
-    contador = 159 #numero de iteraciones
+    contador = 235 #numero de iteraciones
     row = ""
     print(len(data['Producto']))
     for p in data['Producto']:

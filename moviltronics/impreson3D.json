@@ -1,0 +1,841 @@
+{
+ "Producto": [
+  {
+   "name": "Filamento PLA en Rollo 1.75mm PLA 1Kg (Amarillo, Azul, Verde, Rojo, Negro)",
+   "description": "El ácido poli-láctico (PLA) es un polímero biodegradable derivado del ácido láctico. Es un material altamente versátil, que se hace a partir de recursos renovables al 100%, como son la maíz, la remolacha, el trigo y otros productos ricos en almidón.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/556-cart_default/filamento-175mm-pla.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/555-cart_default/filamento-175mm-pla.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/554-cart_default/filamento-175mm-pla.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80101",
+   "precio": "$100.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Este ácido tiene muchas características equivalentes e incluso mejores que muchos plásticos derivados del petróleo, lo que hace que sea eficaz para una gran variedad de usos. El PLA es más frágil que el ABS y es difícil de mecanizar, si bien por sus características es el material mas sencillo para imprimir en 3d. Además, se imprime a menor temperatura que con el ABS, y no requiere cama caliente.\nSe vende por Rollo de 1Kg, y tenemos disponibles (Azul, Rojo, Amarillo,Verde y Negro) En la nota de tu pedido escribe el color que deseas.\nESPECIFICACIONES\nPLA: 1.75mm\nPeso: 1.00kg/2.2lb\nDimensiones: 19 x 19 x 8cm\nTemperatura de impresión: 190° a 225°C\nTemperatura de la primera capa: 200°C\nMás Información"
+  },
+  {
+   "name": "Extrusor MK8 1.75mm (Para Impresora 3D)",
+   "description": "Extrusor de filamento de 1.75mm Para impresora 3D con motor.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/562-cart_default/extrusor-mk8-175mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/560-cart_default/extrusor-mk8-175mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/561-cart_default/extrusor-mk8-175mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/569-cart_default/extrusor-mk8-175mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80012",
+   "precio": "$155.000",
+   "inventory": "4",
+   "additionalInfoDescription1": "Extrusor \"Direct Drive\" con nozzle de 0.4, para filamento de 1.75mm, este incluye un motor paso a paso NEMA17. Si estás pensando en montar un doble extrusor a tu impresora tal vez esta sea una de las mejores opciones para considerar.\nESPECIFICACIONES\nMotor Paso a Paso:\nÁngulo de paso:1.8±5% degree\nVoltage: 6.16V DC\nCorriente: 0.7A/phase\nHolding torque:400mN.m Min\nPhase Resistance:8.8±10% Ω(20℃)\nPhase Inductance:18±20%mH(1kHz 1V rms)\nRotor torque:57g.cm2\nPeso:275g Ref.\nInsulation resistance:100MΩ Min.(DC 500V)\nInsulation class: B(130℃)\nCartucho cerámico\nMaterial: Acero inoxidable, PVC, Nylon\nVoltage: 12V\nPotencia: 30w\nLongitud del cable :1m\nDimensiones del cartucho: 6 x 15mm(D*L)\nThermistor\nB-value:3950K±3%\nResistencia:100Kohm±1%. Usar en Marlin la opción \"1\"\nThermal time constant in air:≤7Sec\nOperating temperature：-40℃ to +300℃\nDissipation constant in air：2.1mW/℃"
+  },
+  {
+   "name": "Set de Control Impresora 3D",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/566-cart_default/set-de-control-electronico-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/572-cart_default/set-de-control-electronico-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/567-cart_default/set-de-control-electronico-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/571-cart_default/set-de-control-electronico-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/570-cart_default/set-de-control-electronico-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/573-cart_default/set-de-control-electronico-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/574-cart_default/set-de-control-electronico-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/575-cart_default/set-de-control-electronico-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/568-cart_default/set-de-control-electronico-.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80009",
+   "precio": "$190.000",
+   "inventory": "0",
+   "additionalInfoDescription1": "Este kit tiene todo lo necesario para realizar la etapa de control de tu impresora 3D, tiene:\nArduino Mega con cable de programación.\nRepRap Smart Controller (Ramps LCD Control): El Controlador Smart es una interfaz gráfica de usuario para el control de la impresora 3D sin la necesidad de una conexión informática directa. El controlador inteligente tiene un lector de tarjetas SD integrado, codificador rotativo con pulsador y una pantalla LCD de línea de 20X4, permitiendo todo tipo de acciones de calibración a los movimientos de los ejes y la ejecución directa del G-código de la ranura para tarjetas SD.\nRamps Shield V1.4: Rampas es la abreviatura de reprap escudo Arduino Mega pololu, está diseñado principalmente para el propósito de utilizar los motores paso a paso pololu (similar al driver A4988). Rampas sólo puede funcionar cuando se conecta a su placa madre Mega 2560 y 4988 / DRV8825, dando estabilidad en funcionamiento y gran compatibilidad con la mayoría 3Dprinter (todo-modelo reprap tales como pursa I2 e I3).\nDriver A4988: Controlador compatible formato Pololu, ideal para manejo de motores paso a paso, capaz de soportar 2 amperios y 35 voltios, esto hace que sea un complemento perfecto para impresora 3D de todo-en-uno.\nCables Jumper hembra hembra de 2 pines rojo negro 70 cm.\nCables Jumper hembra hembra de 3 pines rojo negro verde 70 cm.\nCables Jumper hembra hembra de 4 pines rojo negro verde azul 70 cm.\nIncluye\n1 Arduino Mega\n1 RepRap Smart Controller (Ramps LCD Control)\n1 Ramps Shield V1.4\n5 Driver A4988\n3 Cables Jumper hembra hembra de 2 pines\n6 Cables Jumper hembra hembra de 3 pines\n5 Cables Jumper hembra hembra de 4 pines"
+  },
+  {
+   "name": "Rodamiento Lineal LM8UU 8*15*24mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/585-cart_default/rodamiento-lineal-lm8uu.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/586-cart_default/rodamiento-lineal-lm8uu.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80001",
+   "precio": "$6.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Rodamiento de tipo lineal modelo LM8UU/SDM8UU con un diámetro interno de 8mm, un diámetro externo de 15mm y con una longitud de 24mm, pesa tan solo 0.014Kgr. La carcasa de este rodamiento se encuentra fabricado a base de acero GCR15, los balines que se encuentran en su interior también son fabricados a base de este material, mediante un tratamiento térmico para que el cromo se endurezca. Este accesorio es usado como guía de precisión alta implementado en maquinaría de alimentos, envasado, médica, impresión, textiles, pero quizás la aplicación más importante sea en el desplazamiento suave del extrusor o de la cama caliente a través de una barra de acero M8 de una impresora 3D.\nSe venden por unidad.\nEspecificaciones\nDiámetro interno: 8 mm\nDiámetro exterior: 15 mm\nLongitud: 24 mm\nPeso: 14g"
+  },
+  {
+   "name": "Engranaje MK8 para Impresora 3D",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/589-cart_default/engranaje-mk8.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/590-cart_default/engranaje-mk8.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/591-cart_default/engranaje-mk8.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80005",
+   "precio": "$10.500",
+   "inventory": "0",
+   "additionalInfoDescription1": "Engranaje dentado MK8 fabricado en acero inoxidable para filamentos de 1.75mm de diámetro. Está diseñado para acoplarse a extrusores directos o extrusores tipo bowden en cualquier impresora 3D. Los dientes mecanizados garantizan la transmisión del par motor al filamento sin sufrir mordeduras ni patinadas, siempre y cuando esté correctamente instalado. Se recomienda su uso en motores NEMA17 con eje de 5mm de diámetro.\nPara filamento de 1.75mm Engranaje para MK8 ancho de ranura: 3,2 mm\nSe venden por unidad.\nEspecificaciones\nMaterial: Aluminio\nDimensiones: 11 mm (altura) x 9 mm (diámetro)\nDiámetro: ø5mm\n1.75mm MK8 Engranaje ancho de ranura: 3,2 mm\nPeso 140 gr"
+  },
+  {
+   "name": "Soporte Cabezal Extrusor E3D V6 para Impresora 3D",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/596-cart_default/soporte-cabeza-e3d-v6.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/595-cart_default/soporte-cabeza-e3d-v6.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/597-cart_default/soporte-cabeza-e3d-v6.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/598-cart_default/soporte-cabeza-e3d-v6.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80010",
+   "precio": "$11.000",
+   "inventory": "0",
+   "additionalInfoDescription1": "Soporte cabezal E3D V6 se utiliza para la parte del cabezal, donde va: punta, resistencia térmica.\nSe venden por unidad.\nEspecificaciones\nMaterial: Aluminio\nDimensiones: 20 mm x 16 mm x 11.5 mm\nPeso 10 gr"
+  },
+  {
+   "name": "Extrusor J-HEAD E3D (1.75mm ABS, PLA para Impresora 3D)",
+   "description": "Extrusor para filamento de 1.75mm con motor",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/603-cart_default/extrusor-j-head-e3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/604-cart_default/extrusor-j-head-e3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/605-cart_default/extrusor-j-head-e3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/606-cart_default/extrusor-j-head-e3d.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80011",
+   "precio": "$53.000",
+   "inventory": "0",
+   "additionalInfoDescription1": "Extrusor para filamento de 1.75mm, este incluye: 1 tubo de calor, un termistor y la punta.\nEspecificaciones\nModelo: E3D V6 J-head\nMaterial: Aluminio\nTubo de calor: 12V 40W, 1 m de largo\nTermistor: 100K NTC B 3950 ± 1%, 1 m de largo\nTamaño de la boquilla: 0.3mm, 0.4mm, 0.5mm\nFilamento: 1.75mm ABS, PLA"
+  },
+  {
+   "name": "Motor Paso a Paso NEMA 17HS4401 1.7A",
+   "description": "4Kg/cm.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/612-cart_default/motor-paso-a-paso-nema17.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/611-cart_default/motor-paso-a-paso-nema17.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "D16001",
+   "precio": "$40.000",
+   "inventory": "3",
+   "additionalInfoDescription1": "Este motor paso a paso NEMA17 es ideal para incluir un tu desarrollo de impresora 3D, puesto que cuenta con las especificaciones perfectas y precisas para elllo.\nEste motor paso a paso NEMA 17 es bipolar, tiene un ángulo de paso de 1.8º (200 pasos por vuelta) y cada bobinado es de 1.7A a 12V, capaz de cargar con 4Kg/cm.\nEs un motor muy robusto ampliamente utilizando en Impresoras 3D o maquinas CNC de propósito general, aunque este es ligeramente más potente del recomendado para garantizar la mejor fiabilidad ! El bastidor tiene una parte plana para asegurar un mejor ajuste.\nEste motor puede ser utilizado con controladores de motores tipo DRV8825 y A4988 , siendo especiales para ser manejados mediante Arduino y una tarjeta Shield CNC o Shield RAMPS.\nESPECIFICACIONES\nVoltaje: 12V.\nCorriente: 1.7A\nHolding torque:400mN.m Min\nRotor torque:57g.cm2\nPeso:275g Ref\nInsulation resistance:100MΩ Min.(DC 500V)\nInsulation class: B(130℃)\nTipo: Bipolar.\nTorque: 4000g/cm.\nAngulo de pasos de 1.8 Grados.\nNo. Pasos: 200.\nNo. de Cables: 4.\nResistencia de la fase: 1.5 ohms.\nInductancia de la bobina: 2.8mH.\nCables preparados para soldar.\nLargo de cableado: 25 Cm aprox.\nEje de 5mm Diametro / 20 mm de Largo.\nCódigos de color de cableado:\nROJO ......... Fase A\nVERDE ....... Fase A Regreso\nAMARILLO .. Fase B\nAZUL ......... Fase B Retorno\nDataSheet"
+  },
+  {
+   "name": "Tarjeta Ramps Shield V1.4 (para impresora 3D)",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/614-cart_default/ramps-shield-v14.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/622-cart_default/ramps-shield-v14.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/623-cart_default/ramps-shield-v14.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1441-cart_default/ramps-shield-v14.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M10028",
+   "precio": "$52.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Está diseñado principalmente para el propósito de utilizar los motores paso a paso pololu (similar al driver A4988). Rampas sólo puede funcionar cuando se conecta a su placa madre Mega 2560 y 4988 / DRV8825, dando estabilidad en funcionamiento y gran compatibilidad con la mayoría 3Dprinter (todo-modelo reprap tales como pursa I2 e I3).\nLa placa RAMPS 1.4 es una vieja conocida y ampliamente utilizada en impresoras 3D, además su diseño es libre y forma parte de un diseño original de la comunidad RepRap. Se caracteriza por ser una solución todo en uno para controlar hasta 5 motores paso a paso con la ayuda de los controladores Pololu A4988 o DRV8825 (no incluidos). Dispone de diversas entradas para finales de carrera, así como conectores para entrada de corriente. Está diseñada para ser utilizada junto con un Arduino MEGA 2560 y aunque mayoritariamente se utiliza como controladora para impresoras 3D, es posible utilizarla en todo tipo de proyectos donde necesites controlar de forma eficiente hasta 5 motores paso a paso como pequeñas fresadoras CNC, sistemas X/Y/Z/A etc También dispone de una amplia documentación.\nEspecificaciones\nCuenta con disposiciones para el robot cartesiano y extrusora.\nExpandible para controlar otros accesorios.\n3 MOSFETs de calentador / salidas del ventilador y 3 circuitos termistor.\nFundido en 5A para mayor seguridad y protección de los componentes\nControl de la cama climatizada con fusible 11A adicional\nSe adapta a 5 motores paso a paso\nPines I2C y SPI dejaron disponible para una futura expansión.\nTodos los MOSFET se conectan en pines PWM para una mayor versatilidad.\nConectores de tipo Servo se utilizan para conectarse a los finales de carrera, motores y leds.\nLEDs indican cuando el calentador emite en\nOpción para conectar 2 motores hasta la Z.\nDiseñada para sistemas cartesianos\nPuede expandirse para otro tipo de accesorios\nSalida con 3 MOSFET para calentador, ventilador y 3 circuitos de termistores\nFusible interno de 5A para mayor seguridad\nSalida de cama caliente con fusible adicional de 11 Amperios\nZócalos para 5 controladores Pololu (No incluidos)\nSalidas I2C y SPI para futuras expansiones\nTodos los MOSFET están conectados a salidas PWM para una mayor flexibilidad\nLas diferentes conexiones tienen conectores de tipo servo de 3A, que son muy comunes y fáciles de utilizar\nIndicadores LED\nPosibilidad de conectar 2 motores en el eje Z para impresoras de tipo Prusa Mendel\nMás Información"
+  },
+  {
+   "name": "Set de Piezas para Soporte Extrusor MK8",
+   "description": "Set soporte MK8.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/628-cart_default/set-soporte-para-extrusor-mk8.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80013",
+   "precio": "$47.000",
+   "inventory": "0",
+   "additionalInfoDescription1": "Set soporte de aluminio para extrusor MK8 impresora 3D en aluminio.\nESPECIFICACIONES\nDimensiones: 4,3 cm x 4,3 cm x 1,8 cm\nPeso: 62 g"
+  },
+  {
+   "name": "Set de Correa y Engranes para impresora 3D GT2 eje 5mm",
+   "description": "Set poleas y correa para impresora 3D.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/633-cart_default/set-correa-y-polea.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/630-cart_default/set-correa-y-polea.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/632-cart_default/set-correa-y-polea.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80023",
+   "precio": "$31.000",
+   "inventory": "20",
+   "additionalInfoDescription1": "Set de 2 Poleas de 16 dientes con diámetro de 6mm y correa de 1 metro, para impresora 3D y CNC.\nESPECIFICACIONES\nMaterial: Aluminio\nDientes: 16\nDiametro del agujero: 5mm"
+  },
+  {
+   "name": "Resistencia Térmica NTC 100K (3950)",
+   "description": "Sensor de temperatura NTC 100K.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1632-cart_default/resistencia-termica-ntc-100k.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1634-cart_default/resistencia-termica-ntc-100k.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/638-cart_default/resistencia-termica-ntc-100k.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M30102",
+   "precio": "$5.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Este transductor resistivo de pequeño tamaño es ideal para medir un amplio rango de temperaturas. Su resistencia disminuye a medida que aumenta la temperatúra. Utilizado para medir temperatura de cabezales de impresión 3D y muchas otras aplicaciones mas. Viene con una cable forrado de teflón resistente a altas temperatura y un cabezal de vidrio.\nEl número 3950 viene de la constante B que se usa en la fórmula para calcular la temperatura absoluta:\nR = R 0 x exp ( B ) x (1 / T - 1 / T 0 )\nDonde R es la resistencia sensada, R0 es la resistencia sensada a la temperatura T0 (en Kelvin). Como este sensor tienen una resistencia de 100K a 25ºC (323K) la fórmula se puede reducir a:\nT = 3950 / ln (R / {100000 xe (-3950 / 323) }) , donde T esta en Kelvin.\nEn microcontroladores usualmente se usa una tabla precalculada de la fórmula anterior para quitar la carga de las operaciones matemáticas.\nESPECIFICACIONES\nB-value:3950K±3%\nResistencia:100Kohm±1%\nThermal time constant in air:≤7Sec\nOperating temperature：-40℃ to +300℃\nDissipation constant in air：2.1mW/℃\nDescripción del Producto:\nTiempo de respuesta rápida y alta precisión\nMejor estabilidad, ya que el chip se se solda.\nDe alta resistencia y esfuerzo mecánico.\nTamaño pequeño y ligero\nRango de temperatura de funcionamiento: -50 a +260 grados Celsius\nConstante de tiempo térmica: menos de 5s (en aire en reposo)\nSe puede utilizar en ambientes de alta temperatura y alta humedad\nPopular para impresoras 3D RepRap\nPuede ser usado en la cama caliente o en el extrusor\nAplicaciones:\nSensores de temperatura\nTermómetros electrónicos\nCompensación de temperatura\nElectrodomésticos (acondicionadores de aire, hornos de microondas, ventiladores eléctricos, calentadores eléctricos)\nIndustrial, protección del medio ambiente, clima y equipo de procesamiento de alimentos\nBobinas de aparatos, circuitos integrados, osciladores de cristal de cuarzo y termopares.\nInstrumentos médico\nEspecificaciones técnicas\nResistencia: 100Kohm + / -1%\nB value: 3950 + / -1%\nPresición: + / -1%\nGlass Packaging: 2.0 + / – 0.2mm\nLongitud: 32 + / – 5mm, Longitud de cable: 1 metro"
+  },
+  {
+   "name": "Cama Termica MK2B (Para Impresora 3D)",
+   "description": "Cama caliente PCB para impresora 3D.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/642-cart_default/cama-termica-mk2b.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/643-cart_default/cama-termica-mk2b.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80007",
+   "precio": "$45.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Cama caliente MK2B hecha de fibra de vidrio doble cara en FR4 ideal para impresora 3D para ABS, PLA flexible y demás.\nLa función de la cama caliente es evitar el wrapping de las piezas de plástico durante la impresión.\nEsta es la versión MK2B negra, con la cantidad de cobre justo para proporcionar el calor necesario rápidamente.\nDescripción\nLa cama caliente se encarga de calentar la base de la impresora 3D, para que las piezas queden adheridas durante la impresión. De esta forma se evita o reduce el wrapping (piezas que se despegan y se curvan durante el proceso de impresión).\nPara que no se pierda resistencia, la placa no ha sido plateada, ya que durante ese proceso, se pierde cobre y baja la resistencia.\nLas camas no vienen abombadas, como muchas camas económicas que vienen de China. Tendrás una cama perfectamente plana ideal para imprimir.\nESPECIFICACIONES\nCompatible: Prusa, Mendel y similares.\nMaterial: FR4\nVoltaje de operación: 12V~24V\nTemperatura de operación máxima: ~300°C\nGrosor de la plataforma: 3mm\nLaminado: FR4 1.6+-0.15mm\nResistencia de operación: 1Ohm ~1.2Ohm\nEl cobre no está plateado para aumentar la resistencia\n2 capas, cobre 35µm\nTamaño total 21.5cm x 21.5cm\nTamaño de impresión 20cm x 20cm\nCompatible con el marco de la Prusa i3\nCalentamiento rápido\nResistencia y led soldados\nPeso: 157,80 gramos"
+  },
+  {
+   "name": "Módulo Final de Carrera (Para Impresora 3D)",
+   "description": "Módulo final de carrera para impresora 3D.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/647-cart_default/modulo-final-de-carrera.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/646-cart_default/modulo-final-de-carrera.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80006",
+   "precio": "$6.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Con el final de carrera usted será capaz de detectar cuando motor X/Y/Z haya alcanzado su máximo o mínimo. El interruptor está cableado de manera que cuando se activa, Se tira de la señal a bajo. También hay un LED en el tablero que se iluminará cuando el interruptor está activado, y utiliza un estándar de 4 pines.\nESPECIFICACIONES\nCalibre del cable AWG: 22\nDimensiones: 4 x 1.5 x 0.9 cm\nPeso: 43 gm"
+  },
+  {
+   "name": "Impresora 3D mElephant Makeblock",
+   "description": "Impresora Makeblock mElephant 3D es una nueva generación de impresoras 3D a partir de Makeblock con alta precisión y capacidad de ampliación. Se puede diseñar algo creativo con algún software de modelado 3D, o descargar diseños libres de la comunidad de código abierto como thingiverse.com",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1063-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1064-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1065-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1066-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1067-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1068-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1069-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1070-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1071-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1072-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1073-cart_default/impresora-3d-melephant-.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1074-cart_default/impresora-3d-melephant-.jpg"
+    }
+   ],
+   "collection": "thingiverse.com",
+   "sku": "M50070",
+   "precio": "$4.500.000",
+   "inventory": "0",
+   "additionalInfoDescription1": "Nueva Impresora 3D!!!!!!\nmElephant tiene la unidad de correa de distribución y la unidad de tornillo de avance en el mismo tiempo, proporciona alta precisión con una resolución de 0,1 mm como XY, y la solución de capa como 0.1-0.3mm, lo que significa que puede producir exactamente la impresión en 3D que el diseño.\nSosteniendo el concepto de minimalista, mElephant se construye simple pero elegante. Delicado marco azul anodizado de aluminio, forma aerodinámica, y la pantalla OLED de diseño especial trae el funcionamiento robusto y control fácil de entender. Esta impresora es casi capaz de hacer lo que desea. No importa si es diseñador, ingeniero, educador o inventor, se puede llevar sus ideas a la vida mediante la impresión de objetos como prototipos, varios modelos, artículos, cajas del teléfono, juguetes y piezas mecánicas para construir sus robots.\nRecibe 1Kg de PLA Gratis\nESPECIFICACIONES\nMarco: Aluminio anodizado\nExtrusora: Todo el metal, temperaturas de hasta 230 grados Celsius\nDimensiones: 416mm x 344mm x 330mm\nPeso: 6.7 Kg\nLos materiales de impresión: 1.75mm PLA\nConstruir Volumen (An x P): 180 mm × 200 mm × 160 mm\nXY Resolución: 0.1 mm\nResolución de capa: 0.1-0.3mm\nImprimir cama: No climatizada\nVelocidad: Velocidad de impresión general 50mm/s, max 100mm/s\nAlimentación: Adaptador de 110-240VCA, 24V/ 5A\nSoftware: Cura y Printrun\nFirmware: Marlin\nLCD muestra información útil sobre el progreso de una impresión que acaba de terminar\nSoporta tipo de archivo: STL y Gcode\nConexiones: Tarjeta SD y USB\nElectrónica: RAMPS1.4 shield + Mega2560 comaptible board\nArchivos\nTutoriales\nEl vídeo anterior no es de nuestra autoría, solo es ilustrativo para el alcance del producto."
+  },
+  {
+   "name": "Rodamiento de Balinera con Soporte SC8UU",
+   "description": "MEC-ROD-SC8UU.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1188-cart_default/rodamiento-sc8uu-con-soporte.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2543-cart_default/rodamiento-sc8uu-con-soporte.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2541-cart_default/rodamiento-sc8uu-con-soporte.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2542-cart_default/rodamiento-sc8uu-con-soporte.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "MEC-ROD-SC8UU.",
+   "precio": "$15.000",
+   "inventory": "5",
+   "additionalInfoDescription1": "Este rodamiento es ideal para ser usado en plataformas deslizantes movidas por motores paso a paso. Se deslizan sobre ejes del mismo diametro. Muy común en sistemas CNC como impresoras 3D. Incluye Soporte para un acoplar rapidamente a la estructura.\nESPECIFICACIONES TÉCNICAS\nCarga dinámica C: 260N\nCarga estática Co: 400N\nPeso: 58 gramos\nDimensiones: Diámetro Interior 8mm, Longitud 30mm, Ancho 22mm.\nMaterial: Aluminio\nAcabado: Mate"
+  },
+  {
+   "name": "Rodamiento Lineal con Brida de Balinera LMK8UU 8mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2539-cart_default/rodamiento-lmk8uu-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2536-cart_default/rodamiento-lmk8uu-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2537-cart_default/rodamiento-lmk8uu-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2538-cart_default/rodamiento-lmk8uu-8mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80020",
+   "precio": "$16.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Los cojinetes de bola universal, es ideal para que sustituya los cojinetes de bolas dañado en sus dispositivos para mejorarlos eficiencia y ahorrar enérgia.\nAmpliamente utilizado en electródomesticos, industrial, de poco ruido y motores eléctricos de alta velocidad, maquinaria de construcción, componentes de automoción, bombas y maquinaria.\nMovimiento suave, de baja fricción, alta rigidez y una larga vida útil.\nEconómico, facíl de mantener sustituir.\nEspecificaciones:\nModelo: LMK8UU\nMaterial: Metal, Goma\nDiametro interior: 8 mm / 0,31 \"\nDiametro exterior: 15 mm / 0,6 \"\nLongitud: 24 mm / 0,94 \"\nTamano cuadrado: 25 x 25 x 5 mm / 1 \" 1 x \" x 0,2 \" (L * W * T)\nDiametro del agujero de montaje .: 3 mm / 0,12 \"\nPaso de hoyos: 17mm / 0.67 \" (centro a centro)\nColor principal: tono de plata\nPeso neto: 28 g"
+  },
+  {
+   "name": "Acople flexible 5x5x25mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1190-cart_default/acople-flexible-5x5x25mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1191-cart_default/acople-flexible-5x5x25mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1193-cart_default/acople-flexible-5x5x25mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80003",
+   "precio": "$15.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Fácil de instalar, tampón, amortiguación, conveniente para desconectar. Acoplador de eje a menudo se utiliza para conectar el motor servo, motor paso a paso, codificador, atornillado, plataforma de la máquina, etcetera. Esto es perfecto para ésos frambuesa Pi y los fanáticos de Arduino, este es gran adminículo pequeño que permite que usted conecta los engranajes, varillas etcetera a los motores paso a paso de 5V que se utilizan para la robótica, la impresora 3D y otros proyectos.\nEje:5 x 5mm.\nLongitud: 25mm.\nEspecificación:\nMaterial: Aleación de aluminio\nLongitud total: 25mm\nDiámetro externo: 19mm Eje: 5 x 5 mm\nEl paquete incluye: 1 pieza eje acoplador acoplador"
+  },
+  {
+   "name": "Acople Flexible 5x8x25mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1194-cart_default/acople-flexible-5x8x25mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1196-cart_default/acople-flexible-5x8x25mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1195-cart_default/acople-flexible-5x8x25mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80015",
+   "precio": "$15.000",
+   "inventory": "9",
+   "additionalInfoDescription1": "Características:\nEl acoplador del eje se utiliza a menudo para conectar servomotores, motor paso a paso, codificador, conducción por tornillo, plataforma de la máquina, etc\nEl acoplador del eje del motor proporciona un agarre extremadamente apretado sin marcar el eje.\nCompatible para NEMA 17 motores paso a paso (para diámetro del eje de 5mm).\nSe adapta a impresoras 3D reprap o pequeñas máquinas CNC.\nEspecificaciones:\nMaterial: acero inoxidable\nColor: plata\nEje: 5mm x 8mm\nDimensión: 25x18mm"
+  },
+  {
+   "name": "Acople Tuerca para Varilla Roscada de 8mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2550-cart_default/acople-para-varilla-roscada-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1197-cart_default/acople-para-varilla-roscada-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1198-cart_default/acople-para-varilla-roscada-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2548-cart_default/acople-para-varilla-roscada-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2549-cart_default/acople-para-varilla-roscada-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2551-cart_default/acople-para-varilla-roscada-8mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80024",
+   "precio": "$16.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Especificaciones de la tuerca:\nDiámetro externo máximo: 22mm\nDiámetro del circulo de pernos: 16mm\nDiámetro perforaciones pernos: 3.5mm\nLargo total tuerca: 15mm\nNúmero de hilos: 4\nAvance lineal por cada vuelta de la tuerca: 8mm\nPara sujetar con pernos M3"
+  },
+  {
+   "name": "Polea Sin Dientes para Impresora 3D 5x16x12",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1201-cart_default/polea-para-impresora-3d-5x16x12.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1202-cart_default/polea-para-impresora-3d-5x16x12.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1200-cart_default/polea-para-impresora-3d-5x16x12.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80031",
+   "precio": "$10.000",
+   "inventory": "10",
+   "additionalInfoDescription1": ""
+  },
+  {
+   "name": "Polea Dentada para Impresora 3D 5x16x12",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1203-cart_default/pinon-impresora-3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1204-cart_default/pinon-impresora-3d.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80032",
+   "precio": "$10.000",
+   "inventory": "10",
+   "additionalInfoDescription1": ""
+  },
+  {
+   "name": "Varilla Roscada con Acople 8*300mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2522-cart_default/varilla-roscada-con-acople.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1206-cart_default/varilla-roscada-con-acople.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1207-cart_default/varilla-roscada-con-acople.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2521-cart_default/varilla-roscada-con-acople.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80004",
+   "precio": "$27.000",
+   "inventory": "9",
+   "additionalInfoDescription1": "Especificaciones:\nTornillo de avance THSL-300-8D\nDiametro 8 mm\nRosca de 8 mm\nLongitud 300 mm\nLa compra Incluye:\n1x VARILLA ROSCADA\n1x ACOPLE"
+  },
+  {
+   "name": "Set de Correa y Engranes para Impresora 3D GT2 Eje 8mm",
+   "description": "Set poleas y correa para impresora 3D.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1210-cart_default/set-correa-y-polea.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1208-cart_default/set-correa-y-polea.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1209-cart_default/set-correa-y-polea.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80002",
+   "precio": "$30.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Set de 2 Poleas de 16 dientes con diámetro de 6mm y correa de 1 metro, para impresora 3D y CNC.\nESPECIFICACIONES\nMaterial: Aluminio\nDientes: 16\nDiametro del agujero: 8mm"
+  },
+  {
+   "name": "Perfil Ranurado de Aluminio 20x20x600mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1216-cart_default/perfil-ranurado-impresoras-3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/1217-cart_default/perfil-ranurado-impresoras-3d.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80026",
+   "precio": "$40.000",
+   "inventory": "10",
+   "additionalInfoDescription1": ""
+  },
+  {
+   "name": "Angulo de Aluminio 28x28x20mm para Impresora 3D",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1219-cart_default/angulo-en-aluminio-30-30-impresora-3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2557-cart_default/angulo-en-aluminio-30-30-impresora-3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2558-cart_default/angulo-en-aluminio-30-30-impresora-3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2559-cart_default/angulo-en-aluminio-30-30-impresora-3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2560-cart_default/angulo-en-aluminio-30-30-impresora-3d.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2561-cart_default/angulo-en-aluminio-30-30-impresora-3d.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80027",
+   "precio": "$12.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Especificaciones:\nMaterial: Aleación de Aluminio\nColor gris\nTamaño: aprox. 28 x 28 x 20 mm (L x A x T)\nOver Hole: aprox. 10x6.5mm\nCaracteristicas:\nHecho de aluminio, buena dureza, es durable y versátil, para sujetar perfectamente tus muebles.\nDiseñado para cofres, pantallas, ventanas, muebles, etc. Se utiliza para reforzar el interior de las juntas de esquina en ángulo recto.\nPortador corredizo ángulo recto soporte con dos agujeros ovalados."
+  },
+  {
+   "name": "Soporte para Extrusor Doble Ventilador",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1220-cart_default/soporte-para-extrusor-doble-ventilador.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80029",
+   "precio": "$30.000",
+   "inventory": "10",
+   "additionalInfoDescription1": ""
+  },
+  {
+   "name": "Soporte para Extrusor Sencillo",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/1222-cart_default/soporte-para-extrusor-doble-ventilador.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80030",
+   "precio": "$15.000",
+   "inventory": "5",
+   "additionalInfoDescription1": ""
+  },
+  {
+   "name": "Varilla Lisa para Impresora 3D 8*500mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2524-cart_default/varilla-lisa-para-impresora-3d-500mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2525-cart_default/varilla-lisa-para-impresora-3d-500mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80014",
+   "precio": "$15.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Las varillas están disponibles en piezas de 0.5 metros de longitud y 8mm de diámetro\nEn caso de pedir unas medidas tenga en cuenta los siguiente:\nCada corte hace que se pierdan unos 2mm de la longitud de la barra\nLa longitud final de la barra tendrá una variación de +/- 1mm aproximadamente.\nLos bordes se entregan limados para facilitar la inserción de rodamientos"
+  },
+  {
+   "name": "Boquilla para Extrusor 0.2",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2526-cart_default/boquilla-para-extrusor-02.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2528-cart_default/boquilla-para-extrusor-02.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2527-cart_default/boquilla-para-extrusor-02.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80017",
+   "precio": "$5.500",
+   "inventory": "2",
+   "additionalInfoDescription1": "Especificaciones:\nPrecisión de la Boquillas: 0.2mm\nMaterial: Cobre\nMétrica: M6\nTamaño: 13x6mm (Aprox.)"
+  },
+  {
+   "name": "Boquilla para Extrusor 0.3",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2529-cart_default/boquilla-para-extrusor-03.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2531-cart_default/boquilla-para-extrusor-03.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2530-cart_default/boquilla-para-extrusor-03.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "m80018",
+   "precio": "$5.500",
+   "inventory": "2",
+   "additionalInfoDescription1": "Especificaciones:\nPrecisión de la Boquillas: 0.3mm\nMaterial: Cobre\nMétrica: M6\nTamaño: 13x6mm (Aprox.)"
+  },
+  {
+   "name": "Tornillo con Teflon de 1.75mm",
+   "description": "M6 X 30 mm 3D Impresora Extrusor hotend 1.75mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2533-cart_default/tornillo-con-teflon-de-175mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2532-cart_default/tornillo-con-teflon-de-175mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2534-cart_default/tornillo-con-teflon-de-175mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80019",
+   "precio": "$7.500",
+   "inventory": "2",
+   "additionalInfoDescription1": "DESCRIPCIÓN:\nTamaño: 30 mm * M6\nMaterial: Acero inoxidable\nPeso: 4g\nRosca M6\nDiámetro exterior del tornillo: 6 mm\nAdemás del tubo interior de teflón, el troquel mide aproximadamente 20 mm, tiene un diámetro exterior de 4 mm y un diámetro interno de 2 mm.\nAdecuado para makerbot o 1.75mm estructura especial de consumibles de impresora 3D"
+  },
+  {
+   "name": "Pantalla LCD 20x4 RepRapDiscount Smart Controller con Adaptador",
+   "description": "De los mismos fabricantes de la tarjeta RAMPS, tenemos el Panel controlador LCD RepRap Discount Smart Controller. Con este controlador LCD se puede manejar la impresora 3D sin necesidad de conectarla al ordenador.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2545-cart_default/pantalla-lcd-20x4-reprapdiscount-smart-controller-con-adaptador.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2544-cart_default/pantalla-lcd-20x4-reprapdiscount-smart-controller-con-adaptador.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2546-cart_default/pantalla-lcd-20x4-reprapdiscount-smart-controller-con-adaptador.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2547-cart_default/pantalla-lcd-20x4-reprapdiscount-smart-controller-con-adaptador.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80022",
+   "precio": "$62.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Controlador inteligente de pantalla LCD para rampas 1.4 El controlador inteligente contiene un lector de tarjeta SD, un codificador giratorio y una pantalla LCD 2004. Puede conectarlo fácilmente a su placa de rampas utilizando el \"adaptador inteligente\". Después de conectar este panel a sus rampas ya no necesita su PC, el controlador inteligente suministra energía para su tarjeta SD. Además, todas las acciones, como la calibración, los movimientos de los ejes se pueden realizar con el codificador giratorio del Smart Controller. Imprima sus diseños 3D sin PC, solo con un diseño de código g almacenado en la tarjeta SD.\nCaracterísticas:\nRAMPS 1.4 2004 Controlador inteligente de pantalla LCD.\nCircuito de control de luz LED de fondo, una pequeña función de controlador inteligente, con tiempo corto pin para decidir sobre todos los LED giro o dirección 30 segundos\nPuede activar el tiempo de luz para hacer una forma larga o corta del ajuste TRIMM R4100K de 10 segundos a 2 minutos.\nConecte y juegue en la RAMPA, pero necesita modificar el firmware para que sea compatible.\nSe puede lograr el ajuste del parámetro del codificador del producto y se imprime la selección del archivo.\nCon una base de tarjeta SD en la parte posterior, coloque el archivo de corte en la tarjeta SD y seleccione el archivo en la pantalla LCD, luego puede imprimir.\nEspecificaciones:\nMaterial: placa PCB\nTamaño del artículo: Aprox. 150 * 63 mm / 5.91 * 2.48 in\nPeso del artículo: Aprox. 151g / 5.33oz\nPeso del paquete: Aprox. 157g / 5.55oz\nTamaño del paquete: Aprox. 17.5 * 7 * 5cm / 6.89 * 2.76 * 1.97in\nLista del paquetes:\n1 * Controlador LCD 2004\n1 * Rampas 1.4 Tarjeta de expansión\n2 * Cable plano\nMarlin LCD Menu Tree\nEl vídeo anterior no es de nuestra autoría, solo es ilustrativo para el alcance del producto."
+  },
+  {
+   "name": "Varilla Roscada con Acople 8*600mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2552-cart_default/varilla-roscada-con-acople-8600mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2555-cart_default/varilla-roscada-con-acople-8600mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80025",
+   "precio": "$40.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Especificaciones:\nTornillo de avance THSL-600-8D\nDiametro 8 mm\nRosca de 8 mm\nLongitud 600 mm\nLa compra Incluye:\n1x VARILLA ROSCADA\n1x ACOPLE"
+  },
+  {
+   "name": "Soporte SK8 8mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2565-cart_default/soporte-sk8-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2562-cart_default/soporte-sk8-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2563-cart_default/soporte-sk8-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2564-cart_default/soporte-sk8-8mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80034",
+   "precio": "$10.000",
+   "inventory": "10",
+   "additionalInfoDescription1": ""
+  },
+  {
+   "name": "Rodamiento 608 8x22x7mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2566-cart_default/rodamiento-608-8x22x7mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2567-cart_default/rodamiento-608-8x22x7mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2568-cart_default/rodamiento-608-8x22x7mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80035",
+   "precio": "$5.000",
+   "inventory": "10",
+   "additionalInfoDescription1": ""
+  },
+  {
+   "name": "Rodamiento Chumacera KP08 8mm",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2571-cart_default/rodamiento-chumacera-kp08-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2570-cart_default/rodamiento-chumacera-kp08-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2573-cart_default/rodamiento-chumacera-kp08-8mm.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2572-cart_default/rodamiento-chumacera-kp08-8mm.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80036",
+   "precio": "$10.000",
+   "inventory": "10",
+   "additionalInfoDescription1": ""
+  },
+  {
+   "name": "Filamento ABS en Rollo 1.75mm ABS 1Kg (Amarillo, Azul, Verde, Rojo, Negro)",
+   "description": "Acrilonitrilo Butadieno Estireno",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2575-cart_default/filamento-abs-para-impresora-3d-1kg.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2574-cart_default/filamento-abs-para-impresora-3d-1kg.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80102",
+   "precio": "$100.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Información del producto\nAcrilonitrilo butadieno estireno (ABS) de alto rendimiento para extrusión de materiales\nAlta rigidez, alto brillo, resistencia a impactos mediana\nResistente a la grasa\nBuena capacidad de trabajo posterior a la impresión\nOlor fuerte durante la impresión\nPrincipales aplicaciones: Modelado de concepto para las industrias edilicia, eléctrica, automotriz. Piezas no críticas como cerramientos\nEspecificaciones del producto\nPrecisión del diámetro: 1.75 ± 0.05 mm\nPeso neto: 1,00 kg\nPeso bruto: 1,5 kg (incluye bobina y caja de cartón corrugado)\nLongitud del filamento: 396 m\nDensidad: 1,05 g/cm3\nViscat soltening temperature: 104 °C\nFlexural Strength: 76 MPa\nFlexural Modulus: 2200 MPa\nImpact Strength (Charpy): 21 KJ/m2\nMolding Shrinkage: 0.3 – 0.7 %\nLímite elástico (JIS K 7113): 47 MPa\nElongación (JIS K 7113): 30%\nDimensiones de la bobina:\nDiámetro de la bobina: 200 mm\nProfundidad de la bobina: 72 mm\nDiámetro del núcleo: 102 mm\nDiámetro del orificio del núcleo: 51 mm\nConfiguración recomendada de la impresora\nTemperatura de extrusión: 220-240 °C\nTemperatura del lecho: 80-100 °C\nVelocidad de impresión: 30 mm/s\nHumos\nEl filamento ABS crea humos leves al ser extruido. Estos humos, mientras que son generalmente tolerables, pueden ser peligrosos para las personas con sensibilidades químicas o dificultades respiratorias. Asegúrese de que la impresora se encuentra en una zona bien ventilada y asegúrese en la medida de lo posible de no respirar dichos humos.\nFicha Técnica ABS Fillamentum_EN\nFicha Seguridad ABS Premium_EN\nEl vídeo anterior no es de nuestra autoría, solo es ilustrativo para el alcance del producto."
+  },
+  {
+   "name": "Filamento PVA en Rollo 1.75mm PVA 0.5Kg (Natural)",
+   "description": ", para el cuál es preciso disponer de una impresora 3D con doble extrusor.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2578-cart_default/filamento-pva-en-rollo-175mm-pva-05kg-natural.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2579-cart_default/filamento-pva-en-rollo-175mm-pva-05kg-natural.jpg"
+    }
+   ],
+   "collection": "Impresora 3D",
+   "sku": "M80103",
+   "precio": "$200.000",
+   "inventory": "1",
+   "additionalInfoDescription1": "Este tipo de filamento debe ser utilizado por alguien que tenga algo de experiencia en la impresión 3D. Es muy recomendable que usted no comience a utilizar filamentos PVA hasta que haya dominado los fundamentos de la impresión 3D. El filamento PVA es soluble en agua y se adhiere bien a diferentes tipos de plásticos. Debido a estas propiedades, el filamento PVA es un excelente material de apoyo para la doble extrusión en impresión 3D, creando una amplia gama de nuevas posibilidades.\nEl acetato de polivinilo o PVA es un polímero, obtenido mediante la polimerización del acetato de vinilo. Para preparar alcohol de polivinilo se usa la hidrólisis del polímero (ya sea ésta parcial o total). El filamento de PVA es comúnmente usado como elemento de soporte para impresiones 3D complejas, ya que es soluble al agua, lo que lo hace muy fácil de eliminar.\nLa configuración recomendada en la impresora 3D sería: Temperatura de extrusión está entre los 160 y los 180 ºC y temperatura de la base de impresión a 60°C.\nCaracterísticas\nUso: Doméstico\nTecnología: FDM - FFF\nMateriales: PVA (Polivinil Alcohol)\nMás Información"
+  },
+  {
+   "name": "Modulo Shield CNC",
+   "description": "El CNC Shield para Arduino, hace que sus proyectos CNC sean fáciles de montar haciéndolos que funcionen en unas pocas horas. Utiliza el firmware de código abierto en Arduino para controlar 4 motores paso a paso (PAP o Stepper), donde cuenta con 4 zócalos, para insertar 4 controladores A4988. Con este Shield y un Arduino usted puede construir todo tipo de proyectos de robótica o proyectos CNC.",
+   "productImageUrl": [
+    {
+     "image": "https://moviltronics.com.co/2618-cart_default/modulo-shield-cnc.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2616-cart_default/modulo-shield-cnc.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2613-cart_default/modulo-shield-cnc.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2614-cart_default/modulo-shield-cnc.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2612-cart_default/modulo-shield-cnc.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2611-cart_default/modulo-shield-cnc.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2617-cart_default/modulo-shield-cnc.jpg"
+    },
+    {
+     "image": "https://moviltronics.com.co/2615-cart_default/modulo-shield-cnc.jpg"
+    }
+   ],
+   "collection": "Arduino",
+   "sku": "M90029",
+   "precio": "$35.000",
+   "inventory": "10",
+   "additionalInfoDescription1": "Esta board de expansión se usa principalmente en máquinas de grabado e impresoras 3D. Cuatro de sus ranuras se encargan de accionar cuatro motores paso a paso mediante el driver A4988 (tener presente que este módulo no incluye el driver A4988 para el control de motores paso a paso). Además, cada motor paso a paso solo necesita dos puertos IO para funcionar, dicho de otra forma, si se administran adecuadamente seis puertos de IO. son tres los motores paso a paso que se pueden controlar mediante esta práctica tarjeta de expansión.\nEste Shield te permite construir tu CNC de la manera más rápida y sencilla, solo necesitas agregar un Arduino Uno y unos cuantos Drivers A4988 o DRV8825. Posee un diseño modular y Open Source.\nEste shield puede ser usado con los drivers Pololu A4988 (Allegro) o los DRV8825 (Texas Inst.), el A4988 puede manejar motores Paso a paso de hasta 2A por bobina y microstepping de 1/16, el driver DRV8825 es más versatil pues ofrece hasta 2.5A por bobina y microstepping de hasta 1/32.\nCon este shield podrás desarrollar proyectos como Routers CNC, Cortadoras Laser y hasta una Máquina Pick&Place.\nESPECIFICACIONES TÉCNICAS\nVoltaje de Potencia: 12- 36V DC\nCompatible con GRBL 0.9j (Firmware OpenSource para Arduino UNO que convierte código-G en comandos para motores Paso a Paso)\nSoporta 4 Ejes (X, Y, Z y duplicar uno de los anteriores o crear un eje a medida con los pines D12 y D13)\n2 Fin de carrera por cada eje (6 en Total)\nHabilitador y dirección de Spindle\nHabilitador de refrigerante (coolant)\nDiseñador para drivers Pololu A4988 o DRV8825.\nJumpers para elegir el micro-stepping de los drivers.\nDiseño Compacto\nLos motores se pueden conectar usando header o Molex hembra de 4 pines\nDescripción del Producto\nGRBL 0.8c y 0.9i compatible. (Firmware de código abierto que se ejecuta en un Arduino, que convierte los comandos de código G en señales eléctricas para mover en pasos los motores).\n4 ejes de soporte X, Y, Z, A (el eje A, puede duplicar los ejes X, Y, Z o por defecto, hacer un cuarto eje completo con firmware personalizado utilizando los pines D12 y D13)\n2 finales de carrera para cada eje (6 en total)\nOpciones de “Habilitar Husillo”, “Dirección de Husillo” y “Habilitar/Deshabilitar Refrigerante”\n4 Zócalos compatibles para el uso de controladores de motores paso a paso (PAP) A4988, DRV8825 u otros compatibles.\nPuentes para ajustar el micro-escalonamiento de los pasos, permitiendo controlar de forma mas precisa sus motores (Algunos controladores como el DRV8825 pueden hacer hasta 1/32 pasos)\nDiseño compacto\nMolex de 4 pines, para conectar tus motores PAP\nRegleta para el voltaje de entrada que puede variar entre 12-36 VDC (Por el momento solo los controladores DRV8825, soportan hasta 36V, así que por favor tener en cuenta el voltaje de trabajo de tus controladores antes de alimentar su CNC Shield)\nAplicaciones\nMáquina de grabado láser CNC\nMáquina de grabado PCB\nEnrutador / fresadora CNC\nControles de Robot\nMás Información\nCódigos Github\nEl vídeo anterior no es de nuestra autoría, solo es ilustrativo para el alcance del producto."
+  }
+ ]
+}
