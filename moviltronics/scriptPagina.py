@@ -61,9 +61,6 @@ with open('Descarga.json', encoding="utf8") as file:
             elif i == 1:
                     row = row + "," + "Product"
 
-             elif i == 3:
-                    row = row + ",'" + p[head[i]] + "'"
-
             elif i == 4:
                     flag = "" #variable temporal
                     for img in p['productImageUrl']:
@@ -74,7 +71,7 @@ with open('Descarga.json', encoding="utf8") as file:
 
                     row = row + "," + flag
             elif i == 8:
-                    print(head[8])
+                    print(head[i])
                     bandera = sacar_precio(p[head[i]])
                     row = row + "," + bandera
 
@@ -101,7 +98,7 @@ with open('Descarga.json', encoding="utf8") as file:
 
 
 
-    print("Esta Lstos");
+    print("estamos listos");
 
 
 

@@ -48,11 +48,11 @@ row4 = ""
    
 with open('Descarga.json', encoding="utf8") as file:
     data = json.load(file);
-    contador = 159 #numero de iteraciones
+    contador = 0 #numero de iteraciones
     row = ""
     print(len(data['Producto']))
     for p in data['Producto']:
-        contador = contador + 1;
+        contador += 1;
 
         for i in range(50):
             if i == 0:
@@ -60,9 +60,6 @@ with open('Descarga.json', encoding="utf8") as file:
 
             elif i == 1:
                     row = row + "," + "Product"
-
-             elif i == 3:
-                    row = row + ",'" + p[head[i]] + "'"
 
             elif i == 4:
                     flag = "" #variable temporal
@@ -74,7 +71,6 @@ with open('Descarga.json', encoding="utf8") as file:
 
                     row = row + "," + flag
             elif i == 8:
-                    print(head[8])
                     bandera = sacar_precio(p[head[i]])
                     row = row + "," + bandera
 
@@ -85,7 +81,7 @@ with open('Descarga.json', encoding="utf8") as file:
                     row = row + "," + "Caracteristicas"
 
             elif i == 34:
-                    row = row + ',"' + p[head[i]] + '"'
+                    row = row + ',"<p' + p[head[i]] + '</p>"'
 
             else:
                     try:
@@ -101,7 +97,7 @@ with open('Descarga.json', encoding="utf8") as file:
 
 
 
-    print("Esta Lstos");
+    print(row);
 
 
 
