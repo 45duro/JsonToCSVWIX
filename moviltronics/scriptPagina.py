@@ -48,13 +48,15 @@ row4 = ""
    
 with open('Descarga.json', encoding="utf8") as file:
     data = json.load(file);
-    contador = 235 #numero de iteraciones
+    contador = 296 #numero de iteraciones
     row = ""
     print(len(data['Producto']))
     for p in data['Producto']:
         contador = contador + 1;
+        print(p['name'])
 
         for i in range(50):
+
             if i == 0:
                 row = row + "Producto" + str(contador)
 
@@ -71,7 +73,6 @@ with open('Descarga.json', encoding="utf8") as file:
 
                     row = row + "," + flag
             elif i == 8:
-                    print(head[i])
                     bandera = sacar_precio(p[head[i]])
                     row = row + "," + bandera
 
